@@ -1,6 +1,6 @@
 ### Egor Kovalevskiy  
 
-👋 Hello World! I'm Egor Kovalevskiy, a passionate and aspiring Java Junior Developer 🚀. Open to work and Interesting collabs.
+👋 Hello World! I'm Egor Kovalevskiy, a passionate and aspiring Java Junior AQA 🚀. Open to work and Interesting collabs.
 
 My resume:<a href = "https://docs.google.com/document/d/e/2PACX-1vSh-cewfrrfJ4lPDYhMuqBRqKmjFBReZf0g1dcnkf0L5FYPEjSTVbW5k_CA9C24JGPNLuFPRKbyUVPF/pub">resume</a>
 
